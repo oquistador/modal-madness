@@ -1,0 +1,19 @@
+.contained-modal__content {
+    width: 400px;
+    background: rgb(240, 240, 240);
+    border: 2px solid rgb(248, 248, 248);
+    border-right-color: rgb(150, 150, 150);
+    border-bottom-color: rgb(150, 150, 150);
+    padding: 1em;
+    margin: auto;
+    font-family: Arial;
+}
+
+.contained-modal__row {
+    margin: 0 0 1em;
+    display: block;
+}
+
+.contained-modal__row:last-child {
+    margin: 0;
+}

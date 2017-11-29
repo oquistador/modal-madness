@@ -1,0 +1,19 @@
+.custom-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 127, 0, 0.75);
+}
+
+.custom-modal--enter {
+    opacity: 0;
+    transform: rotateY(90deg);
+    transition: 500ms all;
+}
+
+.custom-modal--enter.custom-modal--enter-active {
+    opacity: 1;
+    transform: rotateY(0deg);
+}
