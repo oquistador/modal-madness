@@ -9,14 +9,6 @@ body {
 }
 
 button {
-  border-radius: 2px;
-  border: 0;
-  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.25);
-  text-transform: uppercase;
-  vertical-align: baseline;
-  display: inline-block;
-  padding: 0.5em 0.75em;
-  cursor: pointer;
   margin-right: 0.5em;
 }
 
