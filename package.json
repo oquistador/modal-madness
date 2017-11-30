@@ -1,7 +1,7 @@
 {
   "name": "modal-madness",
   "description": "A React modal component.",
-  "version": "0.0.270",
+  "version": "1.0.0",
   "dependencies": {
     "prop-types": "^15.6.0"
   },
@@ -17,8 +17,5 @@
   },
   "scripts": {
     "start": "react-scripts start ./src/examples/index.js",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
   }
 }
