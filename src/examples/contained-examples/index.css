@@ -1,0 +1,23 @@
+.contained__row {
+    display: flex;
+    margin: 1em 0;
+}
+
+.contained__row span {
+    margin-right: auto;
+}
+
+.contained__form {
+    padding: 1em;
+    margin: 1em 0;
+    width: 12em;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.contained__form .contained__row:first-child {
+    margin-top: 0;
+}
+
+.contained__form .contained__row:last-child {
+    margin-bottom: 0;
+}

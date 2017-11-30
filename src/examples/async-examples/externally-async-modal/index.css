@@ -1,8 +1,8 @@
-.async-modal {
+.externally-async-modal {
     position: relative;
 }
 
-.async-modal__loading {
+.externally-async-modal__pending {
     position: absolute;
     top: -1em;
     left: -1em;

@@ -1,0 +1,17 @@
+.contained-modal__row {
+    display: flex;
+    margin: 1em 0;
+    width: 12em;
+}
+
+.contained-modal__row span {
+    margin-right: auto;
+}
+
+.contained-modal__row:last-child {
+    margin-bottom: 0;
+}
+
+.contained-modal__row:last-child button:last-child {
+    margin-left: auto;
+}

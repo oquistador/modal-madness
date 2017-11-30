@@ -4,7 +4,7 @@ import Modal from '../../modal';
 
 import './index.css';
 
-class Overrides extends Component {
+class OverrideExamples extends Component {
     constructor(props) {
         super(props);
 
@@ -92,4 +92,4 @@ class Overrides extends Component {
     }
 }
 
-export default Overrides;
+export default OverrideExamples;
